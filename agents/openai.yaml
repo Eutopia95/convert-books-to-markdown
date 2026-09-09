@@ -1,0 +1,4 @@
+interface:
+  display_name: "图书转 Markdown"
+  short_description: "将 EPUB、PDF、DOCX、TXT 清理并拆分为 Obsidian Markdown"
+  default_prompt: "Use $convert-books-to-markdown to convert this book into clean, structured Obsidian Markdown."
